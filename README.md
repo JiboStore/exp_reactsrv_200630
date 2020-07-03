@@ -1,3 +1,5 @@
+note: moved to bitbucket
+
 # Rando
 
 A password generator built with React and Express.
